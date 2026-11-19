@@ -6,7 +6,7 @@ package com.mycompany.padrino_mascota;
 
 /**
  *
- * @author kevin arcos 
+ * @author jacobo kevin
  */
 public class Padrino_Mascota {
 
