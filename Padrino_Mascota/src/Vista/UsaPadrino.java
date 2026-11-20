@@ -5,7 +5,7 @@
 
 package Vista;
 /*
- * Author Daniel Stiven Libreros Marulanda
+ * Author Daniel Stiven Libreros Marulanda 15-11-2026
  */
 import Modelo.Aporte;
 import Modelo.AporteArticulo;
