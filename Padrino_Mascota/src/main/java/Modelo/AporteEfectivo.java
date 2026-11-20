@@ -4,7 +4,7 @@
  */
 package Modelo;
 /*
- * Kevin cristino Salazar Arcos
+ * @author Kevin Cristino Salazar Arcos 13-11-2026
  */
 import java.time.LocalDate;
 
